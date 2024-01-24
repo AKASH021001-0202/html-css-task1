@@ -1,0 +1,52 @@
+.navbar{
+    background: #000;
+    color: white;
+    padding: 20px;
+
+}
+.logo{
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: none;
+}
+body{
+    background-color: #CAD2C5;
+}
+
+.card1{
+    background:#000000;
+    height: 450px;
+    margin: 30px;
+    width: auto;
+    border-radius: 20px;
+}
+.card_search{
+    background:#000000; 
+    margin: 30px ;
+    padding:20px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.cardinnerbox{
+    background-color: black;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.cardmessage{
+    background-color: #000;
+    height: 120px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.nav_content{
+    display: flex;
+    align-items: center;
+ 
+
+}
+h3.logo_text {
+    text-align: center;
+    margin: 0 auto;
+}
